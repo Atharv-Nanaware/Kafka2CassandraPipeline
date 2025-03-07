@@ -1,0 +1,13 @@
+.idea
+.venv
+
+logs/
+plugins/
+
+.env
+requirements.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
